@@ -160,8 +160,27 @@ img {
         width: 100%;
     }
     p{
-        padding: 0 2.5rem 3rem;
+        padding: 0 2.5rem 2.5rem ;
     }
+    .last-text{
+        padding: 0 2.5rem;
+    }
+    .col-right ul li{
+        padding: 0 2.5rem;
+    }
+    .col-right ul li p{
+        padding: 0;
+    }
+    .col-left{
+        padding-bottom: 5rem;
+    }
+    .steps .card{
+        padding-top: 3rem;
+    }
+    .steps .card:first-child{
+        padding-top: 0;
+    }
+    
     h1 {
         margin-bottom: 3rem;
         font-size: 2.5rem;
